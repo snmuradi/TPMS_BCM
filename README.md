@@ -58,16 +58,9 @@ The system uses **potentiometers** to simulate tire pressure values and a **rain
 
 ---
 
-## 🧩 Future Improvements
-- Add wireless sensors for real-time tire pressure data transmission.  
-- Display data on a mobile app or IoT dashboard.  
-- Implement advanced BCM features like automatic headlights and door locking.  
-- Use CAN communication for zonal data exchange.
-
----
-
 ## 👨‍💻 Team Members
-- **Sharookh Najeersab Muradi**  
+- **Sharookh Najeersab Muradi**
+- **Shaik Rahil**  
   B.Tech in Electronics and Communication Engineering  
   Gitam University, Bengaluru  
 
@@ -75,8 +68,6 @@ The system uses **potentiometers** to simulate tire pressure values and a **rain
 
 ## 🖼️ Simulation Tools
 - **Tinkercad** – For hardware prototyping and circuit simulation.  
-- **Simulink** – For modeling the TPMS and BCM systems under zonal architecture.  
-
 ---
 
 ## 🧠 Conclusion
